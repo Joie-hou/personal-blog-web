@@ -1,8 +1,6 @@
 <template>
   <div class="home-index-container">
-    <el-card shadow="hover">
-      鼠标悬浮时显示
-    </el-card>
+    
   </div>
 </template>
 

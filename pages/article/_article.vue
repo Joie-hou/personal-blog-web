@@ -120,7 +120,8 @@ export default {
       margin-bottom: 20px;
       width: 100%;
       height: 425px;
-      object-fit: cover;
+      object-fit: contain;
+      background-color: bisque;
     }
     .viewer {
       width: 100%;
