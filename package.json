@@ -27,7 +27,7 @@
     "element-ui": "^2.15.10",
     "nuxt": "^2.15.8",
     "prismjs": "^1.29.0",
-    "vue": "^2.7.10",
+    "vue": "^3.2.47",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
   },
